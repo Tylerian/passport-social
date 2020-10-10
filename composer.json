@@ -1,6 +1,6 @@
 {
     "name": "tylerian/passport-social",
-    "description": "A passport extension for working with esocial providers.",
+    "description": "A passport extension that adds support for social providers.",
     "type": "library",
     "require": {
         "laravel/passport": "^10.0",
