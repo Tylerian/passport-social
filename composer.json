@@ -1,0 +1,17 @@
+{
+    "name": "tylerian/passport-social",
+    "description": "A passport extension for working with esocial providers.",
+    "type": "library",
+    "require": {
+        "laravel/passport": "^10.0",
+        "illuminate/support": "^8.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jairo.rodriguez",
+            "email": "jairo.rodriguez@cabify.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
